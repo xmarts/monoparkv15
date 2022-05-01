@@ -22,3 +22,8 @@
 	path = xmarts/mod_estructura_crm
 	url = git@github.com:xmarts/mod_estructura_crm.git
 	branch = 15.0-gilacevedoxmarts
+
+[submodule "xmarts/office-supplies"]
+	path = xmarts/office-supplies
+	url = git@github.com:xmarts/office-supplies.git
+	branch = 15.0
