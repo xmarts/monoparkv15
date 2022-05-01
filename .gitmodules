@@ -17,3 +17,8 @@
 	path = xmarts/formatos_monopark
 	url = git@github.com:xmarts/formatos_monopark.git
 	branch = 15.0-gilacevedoxmarts
+
+[submodule "xmarts/mod_estructura_crm"]
+	path = xmarts/mod_estructura_crm
+	url = git@github.com:xmarts/mod_estructura_crm.git
+	branch = 15.0-gilacevedoxmarts
