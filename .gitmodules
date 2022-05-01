@@ -12,3 +12,8 @@
 	path = xmarts/carpeta_ventas_monopark
 	url = git@github.com:xmarts/carpeta_ventas_monopark.git
 	branch = 15.0-gilbertoacevedoxmarts
+
+[submodule "xmarts/formatos_monopark"]
+	path = xmarts/formatos_monopark
+	url = git@github.com:xmarts/formatos_monopark.git
+	branch = 15.0-gilacevedoxmarts
