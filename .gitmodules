@@ -27,3 +27,8 @@
 	path = xmarts/office-supplies
 	url = git@github.com:xmarts/office-supplies.git
 	branch = 15.0
+
+[submodule "xmarts/signature-on-purchase-order"]
+	path = xmarts/signature-on-purchase-order
+	url = git@github.com:xmarts/signature-on-purchase-order.git
+	branch = 15.0
