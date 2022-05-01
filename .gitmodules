@@ -2,3 +2,8 @@
 	path = xmarts/carpeta_compras_monpark
 	url = git@github.com:xmarts/carpeta_compras_monpark.git
 	branch = 15.0-gilacevedoxmarts
+
+[submodule "xmarts/carpeta_reporte_inventario"]
+	path = xmarts/carpeta_reporte_inventario
+	url = git@github.com:xmarts/carpeta_reporte_inventario.git
+	branch = 15.0-gilacevedoxmarts
