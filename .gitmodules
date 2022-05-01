@@ -1,0 +1,4 @@
+[submodule "xmarts/carpeta_compras_monpark"]
+	path = xmarts/carpeta_compras_monpark
+	url = git@github.com:xmarts/carpeta_compras_monpark.git
+	branch = 15.0-gilacevedoxmarts
