@@ -7,3 +7,8 @@
 	path = xmarts/carpeta_reporte_inventario
 	url = git@github.com:xmarts/carpeta_reporte_inventario.git
 	branch = 15.0-gilacevedoxmarts
+
+[submodule "xmarts/carpeta_ventas_monopark"]
+	path = xmarts/carpeta_ventas_monopark
+	url = git@github.com:xmarts/carpeta_ventas_monopark.git
+	branch = 15.0-gilbertoacevedoxmarts
