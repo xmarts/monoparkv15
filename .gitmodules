@@ -42,3 +42,6 @@
 	path = xmarts/purchase-discount
 	url = git@github.com:xmarts/purchase-discount.git
 	branch = 15.0
+[submodule "sale_simplifier"]
+	path = sale_simplifier
+	url = git@gitlab.com:xmarts/xmarts-apps/sale_simplifier.git
