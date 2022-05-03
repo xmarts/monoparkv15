@@ -45,3 +45,6 @@
 [submodule "sale_simplifier"]
 	path = sale_simplifier
 	url = git@gitlab.com:xmarts/xmarts-apps/sale_simplifier.git
+[submodule "sale-order-line-by-warehouse-app"]
+	path = sale-order-line-by-warehouse-app
+	url = git@github.com:xmarts/sale-order-line-by-warehouse-app.git
