@@ -48,3 +48,8 @@
 [submodule "sale-order-line-by-warehouse-app"]
 	path = sale-order-line-by-warehouse-app
 	url = git@github.com:xmarts/sale-order-line-by-warehouse-app.git
+
+[submodule "xmarts/fix_views"]
+	path = xmarts/fix_views
+	url = git@github.com:xmarts/fix_views.git
+	branch = 15.0
