@@ -53,3 +53,8 @@
 	path = xmarts/fix_views
 	url = git@github.com:xmarts/fix_views.git
 	branch = 15.0
+
+[submodule "xmarts/sale-simplifier"]
+	path = xmarts/sale-simplifier
+	url = git@github.com:xmarts/sale-simplifier.git
+	branch = 15.0
