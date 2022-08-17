@@ -58,3 +58,8 @@
 	path = xmarts/sale-simplifier
 	url = git@github.com:xmarts/sale-simplifier.git
 	branch = 15.0
+
+[submodule "xmarts/sale-simplifier-15"]
+	path = xmarts/sale-simplifier-15
+	url = git@github.com:xmarts/sale-simplifier.git
+	branch = 15.0
